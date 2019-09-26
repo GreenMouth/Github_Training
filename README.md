@@ -14,7 +14,7 @@ https://www.technotification.com/2019/03/top-open-source-projects-github.html
 
 4.Open Source projects like Tensorflow, VSCode are hosted on github. Anyone in the world can contribute to open source projects using distributed version control systems like git.
 
-5. https://github.com/torvalds/linux
+5.https://github.com/torvalds/linux
 
 6.git is a library that manages your source code.
 
