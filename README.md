@@ -10,5 +10,4 @@ https://www.zdnet.com/article/linux-foundation-microsofts-github-buy-is-a-win-fo
 3.Most of fortune 100 companies use github for software development (Enterprise version)
 
 
-** 
-1. Microsoft bought Github for $7.5 Billion on 10th June 2018
+**  Microsoft bought Github for $7.5 Billion on 10th June 2018
