@@ -16,4 +16,6 @@ https://www.technotification.com/2019/03/top-open-source-projects-github.html
 
 5. https://github.com/torvalds/linux
 
+6.git is a library that manages your source code.
+
 **  Microsoft bought Github for $7.5 Billion on 10th June 2018
