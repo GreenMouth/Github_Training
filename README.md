@@ -25,3 +25,8 @@ Notes:
 1. To change ZSH to BASH in mac OS, run below on Terminal:
 chsh -s /bin/bash
 
+
+2. Install HOMEBREW on macOS:
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+3. 
