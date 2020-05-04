@@ -26,7 +26,13 @@ Notes:
 chsh -s /bin/bash
 
 
-2. Install HOMEBREW on macOS:
+BREW on macOS:
+brew is a package manager to install softwares through terminal.
+
+1. Install HOMEBREW on macOS:
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-3. 
+2. brew help
+
+3. brew install gcc@5 (example)
+
