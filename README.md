@@ -19,3 +19,9 @@ https://www.technotification.com/2019/03/top-open-source-projects-github.html
 6.git is a library that manages your source code.
 
 **  Microsoft bought Github for $7.5 Billion on 10th June 2018
+
+Notes:
+
+1. To change ZSH to BASH in mac OS, run below on Terminal:
+chsh -s /bin/bash
+
